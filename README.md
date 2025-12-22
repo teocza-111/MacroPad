@@ -4,7 +4,7 @@ A simple keyboard with a screen and a rotary encoder.
 # List of parts
 1. Seeed XIAO RP2040
 2. 6x MX-Style switches
-3. EC11 Rotary encoder
+3. EC11 Rotary encoder (with switch)
 4. 0.91 inch OLED display
 5. 6x Blank DSA keycaps
 6. 4x M3x16mm screws
