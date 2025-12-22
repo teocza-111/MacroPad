@@ -11,6 +11,18 @@ A simple keyboard with a screen and a rotary encoder.
 7. 4x M3x5mx4mm heatset inserts
 8. 3D printed case
 
+# Binds
+The default bind are:
+  Switches:
+    -screenshot
+    -copy
+    -paste
+    -media player previous
+    -media player pause/resume
+    -media player next
+  Rotary encoder:
+    -knob: vol up/down
+    -press: mute/unmute volume
 
 # Gallery
 ![image-not-found](https://github.com/teocza-111/MacroPad/blob/main/Media/macropadfull.PNG)
