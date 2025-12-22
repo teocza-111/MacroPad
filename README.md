@@ -13,7 +13,7 @@ A simple keyboard with a screen and a rotary encoder.
 
 
 # Gallery
-https://github.com/teocza-111/MacroPad/blob/main/Media/macropadfull.PNG
-https://github.com/teocza-111/MacroPad/blob/main/Media/Macropad.png
-https://github.com/teocza-111/MacroPad/blob/main/Media/PCB.png
-https://github.com/teocza-111/MacroPad/blob/main/Media/Schematic.png
+![image-not-found](https://github.com/teocza-111/MacroPad/blob/main/Media/macropadfull.PNG)
+![image-not-found](https://github.com/teocza-111/MacroPad/blob/main/Media/Macropad.png)
+![image-not-found](https://github.com/teocza-111/MacroPad/blob/main/Media/PCB.png)
+![image-not-found](https://github.com/teocza-111/MacroPad/blob/main/Media/Schematic.png)
